@@ -161,11 +161,6 @@ Sports betting research
 
 Data visualization projects
 
-⚠️ Disclaimer
-
-This project is for educational and research purposes only.
-All data belongs to UFC and is publicly available on UFCStats.com.
-
 👤 Author
 
 Mauro Bouzon
